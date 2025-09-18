@@ -1,2 +1,2 @@
 # BIOS512
-A repository for the first assignment in BIOS 512
+A repository for the all assignments in BIOS 512
